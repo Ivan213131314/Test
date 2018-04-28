@@ -1,0 +1,120 @@
+#src{
+	position:relative;
+	
+	}
+
+.relative {
+  position: relative;
+}
+
+.d-inline-block {
+  display: inline-block;
+ 
+}
+
+.thumbnail-text {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  color:#9E5117;
+}
+
+.thumbnail-text2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  color:#944407;
+}
+#imgq{width:900px; height:1100px;position:relative;bottom: 90%;}
+.gap{color:#000000; font-size:40px;}
+body 
+{
+ 
+  background-image: url(fon_2.jpeg); 
+  background-attachment:fixed;
+  background-repeat:repeat;
+  color:#D15A00;
+ }
+
+a.qw
+{
+	 text-decoration:none;
+}
+.qw
+{
+	 text-decoration:none;
+}
+#info
+{ 
+ text-decoration:none;
+	
+}
+#floor
+{
+	display:inline-block;
+position:relative; 
+bottom:0; 
+top:130;
+}
+
+
+
+
+
+
+ #text
+ {
+	 
+	  text-align:left;
+	  color:black;
+	  
+	  width: 800;
+	  height:100;
+
+ }
+ #ee
+ {
+	 
+	  position:relative;
+	  right:270;
+	  color:white;
+
+ }
+ #dostavka
+ {
+	 background-color:white;
+	 border:solid 1px black;
+	 width:1400;
+	 height:700;
+	 position:fixed;
+	
+ }
+ #example2{position:relative;}
+ 
+ .example2 {
+    display:inline-block;  
+	
+	position:relative;
+	top:0;
+
+    
+ 
+}
+.span {
+    display:inline-block;
+    position:relative;
+    top:50px; 
+bottom:300; 	
+    
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+     
+    /* Фон */
+    background-color:rgba(0,0,0,.4);
+    padding:10px 30px;
+}
